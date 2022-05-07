@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FirstSingularity
 - 👀 I’m interested in AI, Data Science, and VR
-- 🌱 I’m currently learning beginner Machine Learning
+- 🌱 I’m currently exploring the Data Science pipeline
 - 📫 How to reach me: neil.shah.2002@gmail.com
 
 <!---
